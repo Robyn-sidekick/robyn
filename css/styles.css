@@ -10888,7 +10888,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #fa8493;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10936,7 +10936,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    background-color: #fa8493;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
